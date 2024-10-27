@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on💞️ ...
 - 📫 How to reach me: tel
 - 😄 Pronouns: him👀
-- ⚡ Fun fact: ...
 
 <!---
 behnoudet/behnoudet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
